@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nothazel24
+- 👀 I’m interested inweb development 
+- 🌱 I’m currently learning Php & Bootstrap 
+- 📫 How to reach me @frdnryann_ (ig)
