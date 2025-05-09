@@ -2,9 +2,9 @@
   <p align="center">Hi, Nice to meet you!</p>
   
   ## <p align="center"> 🌐 Socials: </p>
-  <p align="center">
+  <div align="center">
     [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@frdnryann_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frdnryann@gmail.com)
-  </p> 
+  </div> 
   
   # <p align="center">💻 Tech Stack:</p>
   <p align="center">
