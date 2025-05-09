@@ -1,6 +1,7 @@
+ <div align="center">
   # 💫 About Me:
-  <p align="center">Hi, Nice to meet you!</p>
-  
+  Hi, Nice to meet you!
+ </div>  
   
   ## 🌐 Socials:
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@frdnryann_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frdnryann@gmail.com) 
