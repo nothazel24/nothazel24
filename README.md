@@ -32,6 +32,6 @@
 
 <p align="center">
    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=nothazel24&icon=0&color=11"/>
+      <img src="https://komarev.com/ghpvc/?username=nothazel24&color=blue"/>
    </a>
 </p>
