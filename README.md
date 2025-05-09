@@ -1,6 +1,5 @@
-<div style="text-align: center;">
   # 💫 About Me:
-  Hi, Nice to meet you!
+  <p align="center">Hi, Nice to meet you!</p>
   
   
   ## 🌐 Socials:
@@ -15,4 +14,3 @@
   
   ---
   [![](https://visitcount.itsvg.in/api?id=nothazel24&icon=0&color=11)](https://visitcount.itsvg.in)
-</div>
