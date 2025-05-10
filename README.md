@@ -1,6 +1,5 @@
 <p align="center">Hi, Nice to meet you!</p>
-
-## <p align="center">Social Media</p>
+<br>
 <p align="center">
    <a href="https://instagram.com/frdnryann_">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
