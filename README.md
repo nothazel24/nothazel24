@@ -48,8 +48,13 @@
 <hr>
 
 **Connect with me :** 
-<br>
 
-![mailto:frdnryann@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://t.me/Aruutwenty4](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
+<div style="display: flex; gap: .5rem;">
+   <a href="mailto:frdnryann@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="contanctMe">
+   </a>
+   <a href="https://t.me/Aruutwenty4">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="contanctMe">
+   </a>
+</div>
 
