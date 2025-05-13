@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://media1.tenor.com/m/auOHRmmbYEkAAAAC/kasane-teto-kasane.gif" alt="teto"> 
+   <img src="https://media1.tenor.com/m/auOHRmmbYEkAAAAC/kasane-teto-kasane.gif" alt="teto"> <br>
    <img src="https://profile-counter.glitch.me/nothazel24/count.svg?"  />
 </div>
 <hr>
@@ -31,10 +31,11 @@ I'm ryan ferdiansyah, usually called ryan. a student from indonesia.<br> I'm enj
    <br/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothazel24&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 
-### Connect With me
-![mailto:frdnryann@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://t.me/Aruutwenty4](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<img src="https://raw.githubusercontent.com/nothazel24/nothazel24/output/snake.svg" alt="Snake animation" />
+
 <hr>
 
-<img src="https://raw.githubusercontent.com/nothazel24/nothazel24/output/snake.svg" alt="Snake animation" />
+**Connect with me :** 
+![mailto:frdnryann@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://t.me/Aruutwenty4](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 
