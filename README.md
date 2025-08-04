@@ -1,6 +1,20 @@
 <div align="center">
-   <img src="https://media1.tenor.com/m/lCx94AflJM0AAAAC/teto-teto-kasane.gif" alt="teto"> <br>
+   <img src="assets/banner.png" alt="teto"> <br>
    <img src="https://komarev.com/ghpvc/?username=nothazel24&style=flat-square"  />
+</div>
+
+<div align="center" style="margin: 1rem 0 1rem 0;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
+
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+
+  <a href="https://t.me/Aruutwenty4" style="text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
+   </a>
+
+  <a href="mailto:frdnryann@gmail.com" style="text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+   </a>
 </div>
 
 ### Hi there!
@@ -29,14 +43,4 @@
 
 <hr>
 
-**Connect with me :** 
-
-<div style="display: flex; gap: .5rem;">
-   <a href="mailto:frdnryann@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="contanctMe">
-   </a>
-   <a href="https://t.me/Aruutwenty4" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="contanctMe">
-   </a>
-</div>
 
